@@ -1,6 +1,6 @@
 ## Olá, seja bem vind*!
 
-Oi! Tenho 16 anos, sou um programador iniciante e sou aluno do curso de Desenvolvimento de Sistemas. Tenho grande interesse na área de Tecnologia da Informação e pretendo trabalhar na área na vida adulta.
+Tenho 16 anos, sou um programador iniciante e sou aluno do curso de Desenvolvimento de Sistemas. Tenho grande interesse na área de Tecnologia da Informação e pretendo trabalhar na área na vida adulta.
 
 --------
 
