@@ -1,6 +1,6 @@
 ## Olá, seja bem vind*!
 
-Tenho 16 anos e estou cursando o 1° ano do ensino médio. Tenho grande interesse na área de Tecnologia da Informação e pretendo trabalhar na área na vida adulta.
+Oi! Tenho 16 anos, sou um programador iniciante e sou aluno do curso de Desenvolvimento de Sistemas. Tenho grande interesse na área de Tecnologia da Informação e pretendo trabalhar na área na vida adulta.
 
 --------
 
